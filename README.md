@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">Git</h3>
+<h3 align="left">Version Control</h3>
 
 ###
 
