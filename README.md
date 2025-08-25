@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>🎯 I'm currently working on Zerocode<br>📚 I'm currently learning PostgreSQL, Typescript, C# and Angular<br>💬 Ask me about PostgreSQL, Typescript and C#</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning PostgreSQL, Typescript, C# and Angular<br>💬 Ask me about PostgreSQL, Typescript and C#<br>🎯 School and diploma projects had to be private due to data security reasons.</p>
 
 ###
 
