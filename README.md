@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently interested in n8n. <br>💬 Talk to me about PostgreSQL, Typescript and C#<br>🔒 School and diploma projects had to be private due to data security reasons.</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently interested in n8n. <br>💬 Talk to me about PostgreSQL, Typescript and C#<br>🔒 Due to privacy reasons, most of my school projects including my diploma project are kept private.</p>
 
 ###
 
